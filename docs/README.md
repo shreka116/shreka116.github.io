@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Documentation
+title: Publications
 description: >
   Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
 hide_description: true
@@ -8,42 +8,39 @@ sitemap: false
 permalink: /docs/
 ---
 
-Here you should be able to find everything you need to know to accomplish the most common tasks when blogging with Hydejack.
-Should you think something is missing, [please let me know](mailto:mail@qwtel.com).
-Should you discover a mistake in the docs (or a bug in general) feel free to [open an issue](https://github.com/hydecorp/hydejack/issues) on GitHub.
 
-While this manual tries to be beginner-friendly, as a user of Jekyll it is assumed that you are comfortable running shell commands and editing text files.
-{:.note}
+## Journals
+---
 
+* [Improving Abnormality Detection in Chest X-ray with Generative Models and Anatomical Priors]{:.heading.flip-title} (_in preparation_)
+> __Euyoung Kim__, Soochahn Lee, Kyoung Mu Lee
 
-## Getting started
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
+* [Disentangled Contrastive Learning from Synthetic Matching Pairs for Targeted Chest X-ray Generation]{:.heading.flip-title} (MedAI 2023, __-Under Review-__)
+> __Euyoung Kim__, Soochahn Lee, Kyoung Mu Lee
+
+* [Abnormality Detection in Chest X-Ray via Residual-Saliency from Normal Generation]{:.heading.flip-title} (ACCESS 2023)
+> __Euyoung Kim__, Soochahn Lee, Kyoung Mu Lee
+
+* [Triplanar Convolution with Shared 2D Kernels for 3D Classification and Shape Retrieval]{:.heading.flip-title} (CVIU 2020)
+> __Euyoung Kim__, Seung Yeon Shin, Soochahn Lee, Kyoung Mu Lee
 {:.related-posts.faded}
 
-## Using Hydejack
-* [Basics]{:.heading.flip-title} --- How to add different types of content.
-* [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.
-* [Scripts]{:.heading.flip-title} --- How to include 3rd party scripts on your site.
-* [Build]{:.heading.flip-title} --- How to build the static files for deployment.
-* [Advanced]{:.heading.flip-title} --- Guides for more advanced tasks.
-{:.related-posts.faded}
 
-## Other
-* [LICENSE]{:.heading.flip-title} --- The license of this project.
-* [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
-* [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
-{:.related-posts.faded}
+## Conferences
+* [SPNet: Deep 3D Object Classification and Retrieval using Stereographic Porjection]{:.heading.flip-title} (ACCV 2018)
+> Mohsen Yavartanoo, __Euyoung Kim__, Kyoung Mu Lee
 
-[install]: install.md
-[upgrade]: upgrade.md
-[config]: config.md
-[basics]: basics.md
-[writing]: writing.md
-[scripts]: scripts.md
-[build]: build.md
-[advanced]: advanced.md
-[LICENSE]: ../LICENSE.md
-[NOTICE]: ../NOTICE.md
-[CHANGELOG]: ../CHANGELOG.md
+* [Scale-change Aware Locally Adaptive Optical FLow]{:.heading.flip-title} (APSIPA 2016)
+> __Euyoung Kim__, Kyoung Mu Lee
+
+[Improving Abnormality Detection in Chest X-ray with Generative Models and Anatomical Priors]: install.md
+
+[Disentangled Contrastive Learning from Synthetic Matching Pairs for Targeted Chest X-ray Generation]: upgrade.md
+
+[Abnormality Detection in Chest X-Ray via Residual-Saliency from Normal Generation]: config.md
+
+[Triplanar Convolution with Shared 2D Kernels for 3D Classification and Shape Retrieval]: config.md
+
+
+[SPNet: Deep 3D Object Classification and Retrieval using Stereographic Porjection]: basics.md
+[Scale-change Aware Locally Adaptive Optical FLow]: writing.md

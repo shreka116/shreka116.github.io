@@ -17,7 +17,7 @@
 
 # Language of your content in 2-letter code, e.g.: en, de.
 # You may also provide a location, e.g.: en-us, de_AT.
-lang:                  en
+lang:                  kr_KR, en-US
 
 # The title of your blog. Used in the sidebar and the browser tab.
 title:                 Euyoung's
@@ -25,14 +25,13 @@ title:                 Euyoung's
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyltheme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Hello World , 
 
 # A shorter description for the sidebar.
 tagline:               "나의 배움이 세상에 도움이 되는 삶"
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Artificial Intelligence, Computer Vision, Medical Imaging, Industrial Applications]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -42,8 +41,8 @@ logo:                  /assets/img/dongdong.png
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Euyoung Kim
+  email:               shreka116@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
@@ -80,8 +79,8 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-#theme: jekyll-theme-hydejack
-remote_theme: hydecorp/hydejack@v9
+theme: jekyll-theme-hydejack
+# remote_theme: hydecorp/hydejack@v9
 
 
 # Customizaton
