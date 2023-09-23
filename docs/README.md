@@ -33,14 +33,15 @@ permalink: /docs/
 * [Scale-change Aware Locally Adaptive Optical FLow]{:.heading.flip-title} (APSIPA 2016)
 > __Euyoung Kim__, Kyoung Mu Lee
 
-[Improving Abnormality Detection in Chest X-ray with Generative Models and Anatomical Priors]: install.md
+[Improving Abnormality Detection in Chest X-ray with Generative Models and Anatomical Priors]: anatomy_gan.md
 
-[Disentangled Contrastive Learning from Synthetic Matching Pairs for Targeted Chest X-ray Generation]: upgrade.md
+[Disentangled Contrastive Learning from Synthetic Matching Pairs for Targeted Chest X-ray Generation]: disentangled_gan.md
 
-[Abnormality Detection in Chest X-Ray via Residual-Saliency from Normal Generation]: config.md
+[Abnormality Detection in Chest X-Ray via Residual-Saliency from Normal Generation]: rsad.md
 
-[Triplanar Convolution with Shared 2D Kernels for 3D Classification and Shape Retrieval]: config.md
+[Triplanar Convolution with Shared 2D Kernels for 3D Classification and Shape Retrieval]: planet.md
 
 
-[SPNet: Deep 3D Object Classification and Retrieval using Stereographic Porjection]: basics.md
-[Scale-change Aware Locally Adaptive Optical FLow]: writing.md
+[SPNet: Deep 3D Object Classification and Retrieval using Stereographic Porjection]: spnet.md
+
+[Scale-change Aware Locally Adaptive Optical FLow]: salao.md
