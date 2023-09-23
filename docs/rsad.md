@@ -7,4 +7,4 @@ hide_description: true
 sitemap: false
 ---
 
-![RSAD](../assets/img/docs/rsad.png){:width="600" height="398" loading="lazy"}
+![RSAD](../assets/img/docs/rsad.png){:loading="lazy"}

@@ -7,4 +7,4 @@ hide_description: true
 sitemap: false
 ---
 
-![AnatomyGAN](../assets/img/docs/anatomy_gan.png){:width="600" height="398" loading="lazy"}
+![AnatomyGAN](../assets/img/docs/anatomy_gan.png){:loading="lazy"}

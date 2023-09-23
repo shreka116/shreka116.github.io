@@ -7,4 +7,4 @@ hide_description: true
 sitemap: false
 ---
 
-![SALAO](../assets/img/docs/salao.png){:width="600" height="398" loading="lazy"}
+![SALAO](../assets/img/docs/salao.png){:loading="lazy"}

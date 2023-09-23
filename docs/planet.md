@@ -7,4 +7,4 @@ hide_description: true
 sitemap: false
 ---
 
-![PlaNet](../assets/img/docs/planet.png){:width="600" height="398" loading="lazy"}
+![PlaNet](../assets/img/docs/planet.png){:loading="lazy"}

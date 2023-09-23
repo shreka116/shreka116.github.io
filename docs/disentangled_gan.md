@@ -7,4 +7,4 @@ hide_description: true
 sitemap: false
 ---
 
-![DisentangledGAN](../assets/img/docs/disentangled_gan.png){:width="600" height="398" loading="lazy"}
+![DisentangledGAN](../assets/img/docs/disentangled_gan.png){:loading="lazy"}

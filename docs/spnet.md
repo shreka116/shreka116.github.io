@@ -8,4 +8,4 @@ hide_description: true
 sitemap: false
 ---
 
-![SPNet](../assets/img/docs/spnet.png){:width="600" height="398" loading="lazy"}
+![SPNet](../assets/img/docs/spnet.png){:loading="lazy"}
