@@ -7,7 +7,7 @@ description: >
 hide_description: true
 ---
 
-# Shalom
+# About
 
 <!--author-->
 
