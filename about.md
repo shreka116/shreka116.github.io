@@ -26,7 +26,9 @@ hide_description: true
 
 * 2014.09 - 2023.08 서울대학교 (Seoul National University), Seoul, Korea
 > phD in Electrical and Computer Engineering
+>
 > Lab: Computer Vision Lab
+>
 > Advisor : Prof. Kyoung Mu Lee
 
 * 2008.08 - 2014.06 Purdue University, IN, USA
