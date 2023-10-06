@@ -34,7 +34,7 @@ hide_description: true
 * 2008.08 - 2014.06 Purdue University, IN, USA
 > BASc in Electrical Engineering
 
-* 2005.01 - 2008.05 Kodaikanal International School, India
+* 2005.01 - 2008.05 Kodaikanal International School, Tamil Nadu, India
 
 ## Research Interest
 ---
